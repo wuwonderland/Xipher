@@ -4,7 +4,7 @@
 
 ## Description
 
------ TECH STACK -----
+----- MERN TECH STACK -----
 
 <ul>
   <li>vite.js</li>
