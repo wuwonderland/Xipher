@@ -1,6 +1,6 @@
 # Xipher: AI Generated Image Social Platform 
 
-### [LIVE SITE: ENTER HERE](https://xipher.space/)
+### [LIVE SITE:  ENTER HERE](https://xipher.space/)
 
 ## Description
 
