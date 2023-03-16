@@ -22,7 +22,8 @@
   <li>hostinger(hosting & domain name)</li>
 </ul> 
 
-<p>backend deployed to render.com whereas frontend deployed to hostinger.com<p/>
+<br>
+<p>Note: backend deployed to render.com whereas frontend deployed to hostinger.com<p/>
 
 <br>
 
