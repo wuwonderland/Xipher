@@ -5,6 +5,8 @@
 ## Description
 
 ----- TECH STACK -----
+
+<li>
 vite.js
 tailwind CSS
 
@@ -20,6 +22,7 @@ cloudinary(A cloud-base image storage service)
 hostinger(hosting & domain name)
 
 backend deployed to render.com whereas frontend deployed to hostinger.com
+<li />
 <br>
 
 Here's the frontpage of the website "Xipher" :
