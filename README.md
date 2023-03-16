@@ -6,23 +6,20 @@
 
 ----- TECH STACK -----
 
-<li>
-vite.js
-tailwind CSS
+<ul>
+  <li>vite.js</li>
+  <li>tailwindcss</li><br>
+  <li>mongoDB</li>
+    <li>express</li>
+  <li>react.js</li>
+  <li>node.js</li>
+    <li>OpenAI(Dall-E Model) text-to-image</li><br>
+  <li>cloudinary(A cloud-base image storage service)</li><br>
+  <li>hostinger(hosting & domain name)</li>
+</ul> 
 
-mongoDB
-express
-react.js
-node.js
+<h2>backend deployed to render.com whereas frontend deployed to hostinger.com<h2/>
 
-OpenAI(Dall-E Model) text-to-image
-
-cloudinary(A cloud-base image storage service)
-
-hostinger(hosting & domain name)
-
-backend deployed to render.com whereas frontend deployed to hostinger.com
-<li />
 <br>
 
 Here's the frontpage of the website "Xipher" :
