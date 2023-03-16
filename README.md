@@ -10,11 +10,13 @@
   <li>vite.js</li>
   <li>tailwindcss</li><br>
   
-    <br><li>mongoDB</li>
+  <ul>
+    <li>mongoDB</li>
     <li>express</li>
     <li>react.js</li>
     <li>node.js</li><br>
-  
+  <ul/>
+    
   <li>OpenAI(Dall-E Model) text-to-image</li><br>
   
   <li>cloudinary(A cloud-base image storage service)</li><br>
