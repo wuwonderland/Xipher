@@ -1,6 +1,6 @@
 # Xipher: AI Generated Image Social Platform 
 
-### [LIVE SITE:  ENTER HERE](https://xipher.space/)
+### [LIVE SITE: ENTER HERE](https://xipher.space/)
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <ul>
   <li>vite.js</li>
-  <li>tailwindcss</li><br>
+  <li>tailwindcss</li>
   
   <ul>
     <li>mongoDB</li>
@@ -17,7 +17,7 @@
     <li>node.js</li><br>
   <ul/>
     
-  <li>OpenAI(Dall-E Model) text-to-image</li><br>
+  <li>OpenAI(Dall-E Model) text-to-image</li>
   
   <li>cloudinary(A cloud-base image storage service)</li><br>
   
