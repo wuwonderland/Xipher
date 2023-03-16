@@ -1,9 +1,8 @@
-# Xipher
-AI Generated Image Social Platform 
+# Xipher: AI Generated Image Social Platform 
 
-https://xipher.space/
+### [ENTER HERE](https://xipher.space/)
 
-
+## Description
 
 ----- TECH STACK -----
 vite.js
@@ -19,6 +18,9 @@ OpenAI(Dall-E Model) text-to-image
 cloudinary(A cloud-base image storage service)
 
 hostinger(hosting & domain name)
+
+backend deployed to render.com whereas frontend deployed to hostinger.com
+<br>
 
 Here's the frontpage of the website "Xipher" :
 
