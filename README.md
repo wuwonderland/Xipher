@@ -8,7 +8,7 @@
 
 <ul>
   <li>vite.js</li>
-  <li>tailwindcss</li>
+  <li>tailwindcss</li><br>
   
   <ul>
     <li>mongoDB</li>
@@ -17,7 +17,7 @@
     <li>node.js</li><br>
   <ul/>
     
-  <li>OpenAI(Dall-E Model) text-to-image</li>
+  <li>OpenAI(Dall-E Model) text-to-image</li><br>
   
   <li>cloudinary(A cloud-base image storage service)</li><br>
   
